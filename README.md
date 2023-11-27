@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Icon(
-                      Icons.apple,
+                      Icons.face,
                       color: Colors.black,
                       size: 80,
                     ),
@@ -170,7 +170,7 @@ class _HomePageState extends State<HomePage> {
                             width: deviseWidth * .90,
                             height: deviseWidth * .14,
                             decoration: BoxDecoration(
-                              color: Color(0xff78C9FF),
+                              color: Color(0xff5c6898),
                               borderRadius:
                                   BorderRadius.all(Radius.circular(5)),
                             ),
